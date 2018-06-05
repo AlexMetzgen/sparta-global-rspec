@@ -2,7 +2,7 @@
 This project was to use rspec and ruby to create a test
 
 ## Description
-The project will change the value in the array to fizz, buzz and fizzbuzz depending on the number
+The project will change the value in the array to fizz, buzz and fizzbuzz depending on the number. The tests can be ran by typing rspec in inside the sparta-global-rspec folder inside yout git terminal.
 
 
 ## Installing
